@@ -1,0 +1,15 @@
+/Users/justinlam/RiderProjects/Chess/Chess/bin/Debug/net6.0/Chess
+/Users/justinlam/RiderProjects/Chess/Chess/bin/Debug/net6.0/Chess.deps.json
+/Users/justinlam/RiderProjects/Chess/Chess/bin/Debug/net6.0/Chess.runtimeconfig.json
+/Users/justinlam/RiderProjects/Chess/Chess/bin/Debug/net6.0/Chess.dll
+/Users/justinlam/RiderProjects/Chess/Chess/bin/Debug/net6.0/ref/Chess.dll
+/Users/justinlam/RiderProjects/Chess/Chess/bin/Debug/net6.0/Chess.pdb
+/Users/justinlam/RiderProjects/Chess/Chess/obj/Debug/net6.0/Chess.csproj.AssemblyReference.cache
+/Users/justinlam/RiderProjects/Chess/Chess/obj/Debug/net6.0/Chess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinlam/RiderProjects/Chess/Chess/obj/Debug/net6.0/Chess.AssemblyInfoInputs.cache
+/Users/justinlam/RiderProjects/Chess/Chess/obj/Debug/net6.0/Chess.AssemblyInfo.cs
+/Users/justinlam/RiderProjects/Chess/Chess/obj/Debug/net6.0/Chess.csproj.CoreCompileInputs.cache
+/Users/justinlam/RiderProjects/Chess/Chess/obj/Debug/net6.0/Chess.dll
+/Users/justinlam/RiderProjects/Chess/Chess/obj/Debug/net6.0/ref/Chess.dll
+/Users/justinlam/RiderProjects/Chess/Chess/obj/Debug/net6.0/Chess.pdb
+/Users/justinlam/RiderProjects/Chess/Chess/obj/Debug/net6.0/Chess.genruntimeconfig.cache
